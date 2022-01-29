@@ -88,7 +88,7 @@ if (isset($_REQUEST['action'])) {
                     </tr>
                     <tr>
                         <td colspan="2">
-                            <button type="submit" class="pure-button pure-button-primary">Guardar</button>
+                            <button type="submit" class="pure-button pure-button-primary">Salvar</button>
                         </td>
                     </tr>
                 </table>
